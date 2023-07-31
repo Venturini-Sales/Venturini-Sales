@@ -1,5 +1,4 @@
 ### Ola! Meu nome é João, tenho 18 anos e sou apaixonado pela área de T.I! 
-<br>
 Esse ano me prestei a focar em estudar desenvolvimento web para poder entrar na área que tanto gosto, sou focado em Front-End, mas planejo aprender um pouco do Back-End também no futuro.
 
 -Atualmente estou aprendendo React!
