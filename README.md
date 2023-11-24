@@ -3,7 +3,6 @@
 Desde pequeno sempre fui apaixonado por tudo envolvendo tecnologia, mas foi na adolescencia que essa paixão se intensificou. Por causa dos meus estudos e falta de informação eu não sabia da existencia da área da programação, o pouco que eu sabia não me interessava muito, mas nos ultimos tempos eu descobri esse ramo e me interessei profundamente pela área de desenvolvimento Web, então foquei meu tempo 100% em estudar as tecnologias da área do Front-end! Hoje tenho conhecimento em algumas linguagens do Front-end.
 
 🤝Estou a procura de um emprego na área!<br> 
-🌎Moro em Nova Iguaçu - RJ<br>
 🖥Discord: saint_pepsi666<br>
 
 <div style="display: inline_block"><br>
@@ -19,7 +18,6 @@ Desde pequeno sempre fui apaixonado por tudo envolvendo tecnologia, mas foi na a
 
 <div> 
   
-  <a href = "mailto:jpventurinisales@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-venturini-sales-462600258/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://api.whatsapp.com/send?phone=5521978915683" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
   
