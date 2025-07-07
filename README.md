@@ -1,4 +1,4 @@
-### Ola! Meu nome é João, tenho 19 anos e sou apaixonado pela área de T.I! 
+### Ola! Meu nome é João, tenho 20 anos e sou apaixonado pela área de T.I! 
 ##
 Desde pequeno sempre fui apaixonado por tudo envolvendo tecnologia, mas foi na adolescencia que essa paixão se intensificou. Por causa dos meus estudos e falta de informação eu não sabia da existencia da área da programação, o pouco que eu sabia não me interessava muito, mas nos ultimos tempos eu descobri esse ramo e me interessei profundamente pela área de desenvolvimento Web, então foquei meu tempo 100% em estudar as tecnologias da área do Front-end! Hoje tenho conhecimento em algumas linguagens do Front-end.
 
