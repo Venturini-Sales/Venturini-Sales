@@ -3,7 +3,7 @@
 Desde pequeno sempre fui apaixonado por tudo envolvendo tecnologia, mas foi na adolescencia que essa paixão se intensificou. Por causa dos meus estudos e falta de informação eu não sabia da existencia da área da programação, o pouco que eu sabia não me interessava muito, mas nos ultimos tempos eu descobri esse ramo e me interessei profundamente pela área de desenvolvimento Web, então foquei meu tempo 100% em estudar as tecnologias da área do Front-end! Hoje tenho conhecimento em algumas linguagens do Front-end.
 
 🤝Estou a procura de um emprego na área!<br> 
-🖥Discord: venturini_sales<br>
+🖥Discord: venturini_dev<br>
 
 <div style="display: inline_block"><br>
    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
