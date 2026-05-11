@@ -5,7 +5,7 @@ Desde pequeno sempre fui apaixonado por tudo envolvendo tecnologia, mas foi na a
 🤝Estou a procura de um emprego na área!<br> 
 🖥Discord: venturini_dev<br>
 
-<div style="display: flex; align-items: center; gap: 10px; flex-wrap: wrap;">
+<div style="display: flex; gap: 10px;">
   <img alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
